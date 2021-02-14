@@ -20,6 +20,5 @@ Split functionality selectors
  ### To-Do
 
 - [x] LocaleString 'en' format
-- [ ] Add % operation.
-- [ ] Add Square operation.
-- [ ] Add Square root operation.
+- [ ] Host in GitHub Pages
+- [ ] Dark/light Theme switcher
